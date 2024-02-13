@@ -1,9 +1,9 @@
 Hi There👋
 **welcome to my profile follow me if you want to get updated with my works**  
   
-👀 I’m interested in CLOUD COMPUTING & DATA MINING
+👀 I’m interested in CLOUD COMPUTING & MACHINE LEARNING
 
-🌱 I’m currently learning DevOps & coding
+🌱 I’m currently learning AI & ML
 
 💭Ask me about anything
 
